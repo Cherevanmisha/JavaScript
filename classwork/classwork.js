@@ -100,5 +100,5 @@
 //
 // let n = 3;
 // let m = 4;
-// let k = Math.pow(3, 2) + Math.pow(4, 2);
+// let k =Math.sqrt(Math.pow(3, 2) + Math.pow(4, 2));
 // console.log(k)
